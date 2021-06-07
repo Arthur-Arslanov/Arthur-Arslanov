@@ -18,6 +18,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov" alt="Stats" />
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Arslanoov&show_icons=true" alt="Arslanoov" />
 </p>
 
