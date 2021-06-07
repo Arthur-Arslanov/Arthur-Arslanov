@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Arslanoov&show_icons=true" alt="Arslanoov" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arslanoov&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Arslanoov" />
 </p>
 
 <p align="center">
