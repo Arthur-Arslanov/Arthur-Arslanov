@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Arslanoov/awesome)
 
-- 💬 Ask me about **React, Vue, TS and other frontend stuff :)**
+- 💬 Ask me about **Vue, React, TS and other frontend stuff :)**
 
 - 📫 Write me **rasul@arslanoov.red**
 
