@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arslanoov&theme=slateorange&background=FFFFFF&dates=000000" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov&theme=slateorange&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
 </p>
 
 <p align="center">
