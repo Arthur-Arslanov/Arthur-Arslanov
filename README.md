@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov&theme=gruvbox_duo&hide_border=true&dates=FFD715&currStreakLabel=FFDB17&stroke=FFDB17&sideLabels=FFD715&currStreakNum=FFC50A)" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arslanoov&theme=slateorange&background=FFFFFF&dates=000000" alt="Stats" />
 </p>
 
 <p align="center">
