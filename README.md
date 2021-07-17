@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arslanoov&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Arslanoov" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arslanoov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=great-gatsby&bg_color=white" alt="Arslanoov" />
 </p>
 
 <p align="center">
