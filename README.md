@@ -14,7 +14,6 @@
   <img style="margin-right: 25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="50" height="50"/>
   <img style="margin-right: 25px" src="https://ru.nuxtjs.org/logos/nuxt-icon.png" alt="nuxt" width="50" height="50"/>
   <img style="margin-right: 25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img style="margin-right: 25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="sass" height="50"/>
   <img style="margin-right: 25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
   <img style="margin-right: 25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
 </p>
