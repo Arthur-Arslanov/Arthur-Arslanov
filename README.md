@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Rasul</h1>
 
+
 - 🕶 I’m looking to collaborate on **anything free and open source**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Arslanoov/awesome)
+- 👨‍💻 **All of my projects are available [here](https://github.com/Arslanoov/awesome)**
 
-- 💬 Ask me about **Vue, React, TS and other frontend stuff :)**
+- 💬 Ask me about Vue, React, TS and other frontend stuff :)
 
 - 📫 Write me **rasul@arslanoov.red**
 
