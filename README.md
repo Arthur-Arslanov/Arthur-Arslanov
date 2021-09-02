@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arslanoov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&bg_color=white&text_color=black&hide_border=true" alt="Arslanoov" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arslanoov&include_all_commits=true&count_private=true&show_icons=true&line_height=30&bg_color=white&text_color=black&hide_border=true" alt="Arslanoov" />
 </p>
 
 <p align="center">
