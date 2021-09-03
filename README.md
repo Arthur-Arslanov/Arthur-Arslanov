@@ -9,6 +9,14 @@
 - 📫 Write me **rasul@arslanoov.red**
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arslanoov&include_all_commits=true&count_private=true&show_icons=true&line_height=30&bg_color=white&text_color=black&hide_border=true" alt="Arslanoov" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
@@ -16,14 +24,6 @@
   <img src="https://ru.nuxtjs.org/logos/nuxt-icon.png" alt="nuxt" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arslanoov&include_all_commits=true&count_private=true&show_icons=true&line_height=30&bg_color=white&text_color=black&hide_border=true" alt="Arslanoov" />
 </p>
 
 <p align="center">
