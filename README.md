@@ -2,9 +2,9 @@
 
 - 🕶 I’m looking to collaborate on **anything free and open source**
 
-- 👨‍💻 **All of my projects are available [here](https://github.com/Arslanoov/awesome)**
-
 - 💬 Ask me about React, Vue, TS and other frontend stuff :)
+
+- 👨‍💻 **All of my projects are available [here](https://github.com/Arslanoov/awesome)**
 
 - 📫 Write me **rasul@arslanoov.red**
 
