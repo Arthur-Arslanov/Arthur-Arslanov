@@ -6,7 +6,7 @@
 
 - 👨‍💻 **All of my projects are available [here](https://github.com/Arslanoov/awesome)**
 
-- 📫 Write me **rasul@arslanoov.red**
+- 📫 Write me to **rasul@arslanoov.red**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
