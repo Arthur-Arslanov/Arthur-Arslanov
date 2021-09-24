@@ -21,7 +21,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
 </p>
-
-<p align="center">
-  <em>Focusing 🎯 on life, so will be a bit slow for a time</em>
-</p>
