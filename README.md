@@ -1,8 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" />, I'm Rasul</h1>
 
-<p align="center">🕶 I’m looking to collaborate on <b>anything free and open source</b></p>
-<p align="center">📫 Write me <b>rasul@arslanoov.red</b></p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
@@ -12,6 +9,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
 </p>
+
+
+<p align="center">🕶 I’m looking to collaborate on <b>anything free and open source</b></p>
+<p align="center">📫 Write me <b>rasul@arslanoov.red</b></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
