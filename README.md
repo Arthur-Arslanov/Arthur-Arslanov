@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" />, I'm Rasul</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" />, I'm Rasul <img src="https://user-images.githubusercontent.com/51407990/145675914-634bec82-5d19-4579-aa9d-58e3bdea082a.gif" width="25px" /></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -13,7 +13,7 @@
 
 <p align="center">🕶 I’m looking to collaborate on <b>anything free and open source</b></p>
 <p align="center">📫 Write me <b>rasul@arslanoov.red</b></p>
-<p align="center">🌐 My website: <a href="https://arslanoov.red/ru">arslanoov.red</a></p>
+<p align="center">My website: <a href="https://arslanoov.red/ru">arslanoov.red</a></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslanoov&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
