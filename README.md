@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arslanoov&column=3" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arslanoov&column=4" alt="Trophy" />
 </p>
 
 <p align="center">🕶 I’m looking to collaborate on <b>anything free and open source</b></p>
