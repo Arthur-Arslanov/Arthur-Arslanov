@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Rasul</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> Hi, I'm Rasul</h1>
+
+<p align="center">
+Almost 4 years of experience. Writing articles & libraries. Learning new things 💡
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
