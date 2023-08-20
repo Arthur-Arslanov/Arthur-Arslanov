@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> Hi, I'm Rasul</h1>
 
 <p align="center">
-Almost 4 years of experience. Writing articles & libraries. Learning new things 💡
+Almost <a href="https://www.linkedin.com/in/arslanoov/">4 years</a>  of experience. Writing <a href="https://new.arslanoov.space">articles</a> & <a href="https://www.npmjs.com/~arslanoov">libraries</a>. Learning new things 💡
 </p>
 
 <p align="center">
